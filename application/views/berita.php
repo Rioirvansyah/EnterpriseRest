@@ -45,18 +45,15 @@
 						<div class="single-post">
 							<img class="img-fluid" src="img/blog/p1.jpg" alt="">
 							<ul class="tags">
-								<li><a href="#">Art, </a></li>
-								<li><a href="#">Technology, </a></li>
-								<li><a href="#">Fashion</a></li>
+								<li><a>Senin 01 Oktober 2018, 08:25 WIB</a></li>
 							</ul>
 							<a href="blog-single.html">
-								<h1>
-									Cartridge Is Better Than Ever
-									A Discount Toner
-								</h1>
+								<h2>
+									Pesawat Hercules Lanud Abdulrachman Saleh Kembali Terbang ke Palu
+								</h2>
 							</a>
 								<p>
-									MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction of the camp price. However, who has the willpower to actually sit through a self-imposed MCSE training. who has the willpower to actually sit through a self-imposed MCSE training.
+									Malang - Pesawat Hercules milik Lanud Abdulrachman Saleh kembali bertolak menuju Palu, Senin (1/10/2018) pagi ini. Hercules A-1333 tersebut membawa puluhan relawan dari Makassar untuk membantu proses evakuasi.
 								</p>
 							<div class="bottom-meta">
 								<div class="user-details row align-items-center">
@@ -87,12 +84,11 @@
 							</ul>
 							<a href="blog-single.html">
 								<h1>
-									Cartridge Is Better Than Ever
-									A Discount Toner
+									Cerita Pencopotan Kaligrafi di Masjid karena Disebut Mirip Salib
 								</h1>
 							</a>
 								<p>
-									MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction of the camp price. However, who has the willpower to actually sit through a self-imposed MCSE training. who has the willpower to actually sit through a self-imposed MCSE training.
+									Malang - Kaligrafi disebut mirip salib di atas nama masjid Al-Robithoh di kompleks Bandara Abdulrachman Saleh, Kabupaten Malang, dicopot. Hanya tertinggal huruf kapital dengan Al-Robithoh yang ditutup kain warna hitam. Kapan pencopotan itu dilakukan? 
 								</p>
 							<div class="bottom-meta">
 								<div class="user-details row align-items-center">
@@ -123,12 +119,12 @@
 							</ul>
 							<a href="blog-single.html">
 								<h1>
-									Cartridge Is Better Than Ever
-									A Discount Toner
+									Cuaca Buruk, 3 Pesawat Gagal Landing di Abdulrachman Saleh
 								</h1>
 							</a>
 								<p>
-									MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction of the camp price. However, who has the willpower to actually sit through a self-imposed MCSE training. who has the willpower to actually sit through a self-imposed MCSE training.
+									Malang - Sejumlah pesawat gagal melakukan landing di Bandara Abdulrachman Saleh. Gagalnya landing pesawat dikarenakan cuaca buruk.
+									"Kondisi cuaca mendung dan hujan, ada tiga maskapai yang menunda landing. Semua demi keselamatan penumpang," kata Humas UPT Bandara Abdulrachman Saleh Kholili saat dikonfirmasi detikcom
 								</p>
 							<div class="bottom-meta">
 								<div class="user-details row align-items-center">

@@ -28,9 +28,9 @@
 					<div class="row d-flex align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
 							<h1 class="text-white">
-								Contact Us				
+								Hubungi Kami				
 							</h1>	
-							<p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="contact.html"> Contact Us</a></p>
+							<p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="contact.html"> Hubungi Kami</a></p>
 						</div>	
 					</div>
 				</div>
@@ -48,8 +48,8 @@
 									<span class="lnr lnr-home"></span>
 								</div>
 								<div class="contact-details">
-									<h5>Dhaka, Bangladesh</h5>
-									<p>56/8, West Panthapath</p>
+									<h5>Jawa Timur, Indonesia</h5>
+									<p>Jalan Raya Abdul Rachman Saleh No.07, Krajan, Asrikaton, Pakis</p>
 								</div>
 							</div>
 							<div class="single-contact-address d-flex flex-row">
@@ -57,8 +57,8 @@
 									<span class="lnr lnr-phone-handset"></span>
 								</div>
 								<div class="contact-details">
-									<h5>00 (880) 9865 562</h5>
-									<p>Mon to Fri 9am to 6 pm</p>
+									<h5>(0341) 795413</h5>
+									<p>Buka jam 8 am to 15.30 pm</p>
 								</div>
 							</div>
 							<div class="single-contact-address d-flex flex-row">
@@ -66,8 +66,8 @@
 									<span class="lnr lnr-envelope"></span>
 								</div>
 								<div class="contact-details">
-									<h5>support@codethemes.com</h5>
-									<p>Send us your query anytime!</p>
+									<h5>abdulrachmansaleh.com</h5>
+									<p>Kirimi kami permintaan Anda kapan saja!</p>
 								</div>
 							</div>														
 						</div>
@@ -84,7 +84,7 @@
 									</div>
 									<div class="col-lg-6 form-group">
 										<textarea class="common-textarea form-control" name="message" placeholder="Messege" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Messege'" required=""></textarea>
-										<button class="genric-btn primary circle mt-30" style="float: right;">Send Message</button>								
+										<button class="genric-btn primary circle mt-30" style="float: right;">Kirim Pesan</button>								
 									</div>
 								</div>
 							</form>	

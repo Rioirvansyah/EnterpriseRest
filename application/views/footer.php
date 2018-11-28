@@ -4,7 +4,7 @@
 		<div class="row">
 			<div class="col-lg-5 col-md-6 col-sm-6">
 				<div class="single-footer-widget">
-					<h6>Tentang Kami</h6>
+					<h6>Sekilas Tentang Kami</h6>
 					<p>
 						Pengelolaan bandara itu akan dibawah tanggungjawab Pemerintah Provinsi Jawa Timur. Bandara Abdul Rachman Saleh ini dibangun di atas lahan seluas 1020 meter persegi yang mampu menampung sebanyak 250 orang, dengan setiap kali penerbangan penumpang berangkat sekitar 125 orang.
 					</p>

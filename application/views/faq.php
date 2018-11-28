@@ -45,25 +45,22 @@
 						<div class="single-post">
 							<img class="img-fluid" src="img/blog/p1.jpg" alt="">
 							<ul class="tags">
-								<li><a href="#">Art, </a></li>
-								<li><a href="#">Technology, </a></li>
-								<li><a href="#">Fashion</a></li>
+								<h2>MASKAPAI</h2>
 							</ul>
 							<a href="blog-single.html">
-								<h1>
-									Cartridge Is Better Than Ever
-									A Discount Toner
-								</h1>
+								<h3>
+									Dimana lokasi Terminal keberangkatan Sriwijaya Airlines?
+								</h3>
 							</a>
 								<p>
-									MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction of the camp price. However, who has the willpower to actually sit through a self-imposed MCSE training. who has the willpower to actually sit through a self-imposed MCSE training.
+									Terminal 1
 								</p>
 							<div class="bottom-meta">
 								<div class="user-details row align-items-center">
 									<div class="comment-wrap col-lg-6">
 										<ul>
-											<li><a href="#"><span class="lnr lnr-heart"></span>	4 likes</a></li>
-											<li><a href="#"><span class="lnr lnr-bubble"></span> 06 Comments</a></li>
+											<li><a href="#"><span class="lnr lnr-heart"></span>	3 likes</a></li>
+											<li><a href="#"><span class="lnr lnr-bubble"></span> 02 Comments</a></li>
 										</ul>
 									</div>
 									<div class="social-wrap col-lg-6">
@@ -81,25 +78,22 @@
 						<div class="single-post">
 							<img class="img-fluid" src="img/blog/p2.jpg" alt="">
 							<ul class="tags">
-								<li><a href="#">Art, </a></li>
-								<li><a href="#">Technology, </a></li>
-								<li><a href="#">Fashion</a></li>
+								<h2>INFORMASI PENERBANGAN</h2>
 							</ul>
 							<a href="blog-single.html">
-								<h1>
-									Cartridge Is Better Than Ever
-									A Discount Toner
-								</h1>
+								<h3>
+									Bagaimana cara melakukan pengecekkan update informasi penerbangan di Bandara Abdul Rachman Saleh?
+								</h3>
 							</a>
 								<p>
-									MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction of the camp price. However, who has the willpower to actually sit through a self-imposed MCSE training. who has the willpower to actually sit through a self-imposed MCSE training.
+									Dapat dilakukan melalui abdulrachmansaleh.com
 								</p>
 							<div class="bottom-meta">
 								<div class="user-details row align-items-center">
 									<div class="comment-wrap col-lg-6">
 										<ul>
-											<li><a href="#"><span class="lnr lnr-heart"></span>	4 likes</a></li>
-											<li><a href="#"><span class="lnr lnr-bubble"></span> 06 Comments</a></li>
+											<li><a href="#"><span class="lnr lnr-heart"></span>	5 likes</a></li>
+											<li><a href="#"><span class="lnr lnr-bubble"></span> 07 Comments</a></li>
 										</ul>
 									</div>
 									<div class="social-wrap col-lg-6">
@@ -117,25 +111,22 @@
 						<div class="single-post">
 							<img class="img-fluid" src="img/blog/p3.jpg" alt="">
 							<ul class="tags">
-								<li><a href="#">Art, </a></li>
-								<li><a href="#">Technology, </a></li>
-								<li><a href="#">Fashion</a></li>
+								<h2>PENANGANAN BARANG TERTINGGAL</h2>
 							</ul>
 							<a href="blog-single.html">
-								<h1>
-									Cartridge Is Better Than Ever
-									A Discount Toner
-								</h1>
+								<h3>
+									Mohon dibantu pengecekan apakah ditemukan jam tangan di toilet kedatangan Terminal 1 ?
+								</h3>
 							</a>
 								<p>
-									MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction of the camp price. However, who has the willpower to actually sit through a self-imposed MCSE training. who has the willpower to actually sit through a self-imposed MCSE training.
+									Untuk menindaklanjuti laporan tersebut, mohon diinformasikan alamat email aktif agar dapat kami kirimkan form tertinggal barang
 								</p>
 							<div class="bottom-meta">
 								<div class="user-details row align-items-center">
 									<div class="comment-wrap col-lg-6">
 										<ul>
-											<li><a href="#"><span class="lnr lnr-heart"></span>	4 likes</a></li>
-											<li><a href="#"><span class="lnr lnr-bubble"></span> 06 Comments</a></li>
+											<li><a href="#"><span class="lnr lnr-heart"></span>	3 likes</a></li>
+											<li><a href="#"><span class="lnr lnr-bubble"></span> 02 Comments</a></li>
 										</ul>
 									</div>
 									<div class="social-wrap col-lg-6">
@@ -153,25 +144,22 @@
 						<div class="single-post">
 							<img class="img-fluid" src="img/blog/p4.jpg" alt="">
 							<ul class="tags">
-								<li><a href="#">Art, </a></li>
-								<li><a href="#">Technology, </a></li>
-								<li><a href="#">Fashion</a></li>
+								<h2>FASILITAS BANDARA</h2>
 							</ul>
 							<a href="blog-single.html">
-								<h1>
-									Cartridge Is Better Than Ever
-									A Discount Toner
-								</h1>
+								<h3>
+									Apakah tersedia free drinking water di area boarding gate internasional Teminal 1?
+								</h3>
 							</a>
 								<p>
-									MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction of the camp price. However, who has the willpower to actually sit through a self-imposed MCSE training. who has the willpower to actually sit through a self-imposed MCSE training.
+									Sudah tersedia
 								</p>
 							<div class="bottom-meta">
 								<div class="user-details row align-items-center">
 									<div class="comment-wrap col-lg-6">
 										<ul>
-											<li><a href="#"><span class="lnr lnr-heart"></span>	4 likes</a></li>
-											<li><a href="#"><span class="lnr lnr-bubble"></span> 06 Comments</a></li>
+											<li><a href="#"><span class="lnr lnr-heart"></span>	2 likes</a></li>
+											<li><a href="#"><span class="lnr lnr-bubble"></span> 03 Comments</a></li>
 										</ul>
 									</div>
 									<div class="social-wrap col-lg-6">
@@ -185,7 +173,41 @@
 									</div>
 								</div>
 							</div>
-						</div>																					
+						</div>	
+
+						<div class="single-post">
+							<img class="img-fluid" src="img/blog/p3.jpg" alt="">
+							<ul class="tags">
+								<h2>PARKIR</h2>
+							</ul>
+							<a href="blog-single.html">
+								<h3>
+									Proses pembayaran parkir apakah bisa dengan uang tunai?
+								</h3>
+							</a>
+								<p>
+									Bisa
+								</p>
+							<div class="bottom-meta">
+								<div class="user-details row align-items-center">
+									<div class="comment-wrap col-lg-6">
+										<ul>
+											<li><a href="#"><span class="lnr lnr-heart"></span>	6 likes</a></li>
+											<li><a href="#"><span class="lnr lnr-bubble"></span> 03 Comments</a></li>
+										</ul>
+									</div>
+									<div class="social-wrap col-lg-6">
+										<ul>
+											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+											<li><a href="#"><i class="fa fa-behance"></i></a></li>
+										</ul>
+										
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>	
