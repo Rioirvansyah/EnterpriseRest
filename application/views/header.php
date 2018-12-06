@@ -46,11 +46,11 @@
 
 	          <li class="menu-has-children"><a href="">Informasi Tiket</a>
 	            <ul>
-	              <li><a href="blog-home.html">Pemesanan Tiket</a></li>
-	              <li><a href="blog-single.html">Tiket Anda</a></li>
+	              <li><a href="<?php echo base_url()?>pemesanantiket">Pemesanan Tiket</a></li>
+	              <li><a href="<?php echo base_url()?>tiket">Tiket Anda</a></li>
 	            </ul>
 	          </li>						          
-	          <li><a href="services.html">Login</a></li>
+	          <li><a href="<?php echo base_url()?>login">Login</a></li>
 	        </ul>
 	      </nav><!-- #nav-menu-container -->		    		
 		</div>

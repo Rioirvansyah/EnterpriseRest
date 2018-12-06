@@ -78,14 +78,12 @@
 						<div class="single-post">
 							<img class="img-fluid" src="img/blog/p2.jpg" alt="">
 							<ul class="tags">
-								<li><a href="#">Art, </a></li>
-								<li><a href="#">Technology, </a></li>
-								<li><a href="#">Fashion</a></li>
+								<li><a>Rabu 25 April 2018, 19:23 WIB</a></li>
 							</ul>
 							<a href="blog-single.html">
-								<h1>
+								<h2>
 									Cerita Pencopotan Kaligrafi di Masjid karena Disebut Mirip Salib
-								</h1>
+								</h2>
 							</a>
 								<p>
 									Malang - Kaligrafi disebut mirip salib di atas nama masjid Al-Robithoh di kompleks Bandara Abdulrachman Saleh, Kabupaten Malang, dicopot. Hanya tertinggal huruf kapital dengan Al-Robithoh yang ditutup kain warna hitam. Kapan pencopotan itu dilakukan? 
@@ -94,8 +92,8 @@
 								<div class="user-details row align-items-center">
 									<div class="comment-wrap col-lg-6">
 										<ul>
-											<li><a href="#"><span class="lnr lnr-heart"></span>	4 likes</a></li>
-											<li><a href="#"><span class="lnr lnr-bubble"></span> 06 Comments</a></li>
+											<li><a href="#"><span class="lnr lnr-heart"></span>	2 likes</a></li>
+											<li><a href="#"><span class="lnr lnr-bubble"></span> 03 Comments</a></li>
 										</ul>
 									</div>
 									<div class="social-wrap col-lg-6">
@@ -113,14 +111,12 @@
 						<div class="single-post">
 							<img class="img-fluid" src="img/blog/p3.jpg" alt="">
 							<ul class="tags">
-								<li><a href="#">Art, </a></li>
-								<li><a href="#">Technology, </a></li>
-								<li><a href="#">Fashion</a></li>
+								<li><a>Jumat 17 November 2017, 17:43 WIB</a></li>
 							</ul>
 							<a href="blog-single.html">
-								<h1>
+								<h2>
 									Cuaca Buruk, 3 Pesawat Gagal Landing di Abdulrachman Saleh
-								</h1>
+								</h2>
 							</a>
 								<p>
 									Malang - Sejumlah pesawat gagal melakukan landing di Bandara Abdulrachman Saleh. Gagalnya landing pesawat dikarenakan cuaca buruk.
@@ -130,8 +126,8 @@
 								<div class="user-details row align-items-center">
 									<div class="comment-wrap col-lg-6">
 										<ul>
-											<li><a href="#"><span class="lnr lnr-heart"></span>	4 likes</a></li>
-											<li><a href="#"><span class="lnr lnr-bubble"></span> 06 Comments</a></li>
+											<li><a href="#"><span class="lnr lnr-heart"></span>	2 likes</a></li>
+											<li><a href="#"><span class="lnr lnr-bubble"></span> 05 Comments</a></li>
 										</ul>
 									</div>
 									<div class="social-wrap col-lg-6">
@@ -149,25 +145,23 @@
 						<div class="single-post">
 							<img class="img-fluid" src="img/blog/p4.jpg" alt="">
 							<ul class="tags">
-								<li><a href="#">Art, </a></li>
-								<li><a href="#">Technology, </a></li>
-								<li><a href="#">Fashion</a></li>
+								<li><a>Kamis 06 Oktober 2016, 09:10 WIB</a></li>
 							</ul>
 							<a href="blog-single.html">
-								<h1>
-									Cartridge Is Better Than Ever
-									A Discount Toner
-								</h1>
+								<h2>
+									Abu Vulkanik Bromo, Garuda Alihkan Penerbangan ke Bandara Juanda
+								</h2>
 							</a>
 								<p>
-									MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction of the camp price. However, who has the willpower to actually sit through a self-imposed MCSE training. who has the willpower to actually sit through a self-imposed MCSE training.
+									Malang - Aktivitas Gunung Bromo kembali mempengaruhi penerbangan di Bandara Abdulrachman Saleh, Malang. Akibatnya, Garuda Indonesia mengalihkan jadwal penerbangan ke Bandara Juanda Surabaya di Sidoarjo.
+									"Pagi ini Garuda alihkan penerbangan ke Juanda," kata Kepala Unit Pelaksana Teknis Daerah (UPTD) Bandara Abdulrachman Saleh Suharno, Kamis (6/10/2016).
 								</p>
 							<div class="bottom-meta">
 								<div class="user-details row align-items-center">
 									<div class="comment-wrap col-lg-6">
 										<ul>
-											<li><a href="#"><span class="lnr lnr-heart"></span>	4 likes</a></li>
-											<li><a href="#"><span class="lnr lnr-bubble"></span> 06 Comments</a></li>
+											<li><a href="#"><span class="lnr lnr-heart"></span>	5 likes</a></li>
+											<li><a href="#"><span class="lnr lnr-bubble"></span> 04 Comments</a></li>
 										</ul>
 									</div>
 									<div class="social-wrap col-lg-6">

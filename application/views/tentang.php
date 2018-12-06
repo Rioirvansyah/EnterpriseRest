@@ -42,18 +42,18 @@
 				<div class="container">
 					<div class="row justify-content-center align-items-center">
 						<div class="col-lg-12 col-md-12 home-about-left">
-							<h6>Brand new app to blow your mind</h6>
-							<h1>
-								We’ve made a life <br>
-								that will change you
-							</h1>
-							<p class="sub">We are here to listen from you deliver exellence</p>
+							<h1><center>
+								Bandara Abdul Rachman Saleh
+							</center></h1>
 							<p class="pb-20">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temp or incididunt ut labore et dolore magna aliqua. Ut enim ad minim. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
+								Bandar Udara Abdul Rachman Saleh adalah bandar udara yang terletak di Pakis, Kabupaten Malang, Jawa Timur, atau 17 km arah timur dari pusat Kota Malang. Kode ICAO-nya WARA (dahulu WIAS) dan kode IATA MLG. Bandara Abdulrahman Saleh merupakan tempat pesawat Hercules C-130 dan Super Tucano sebagai pengganti OV-10 Bronco yang telah di musiumkan. Selain itu Wing 2 Korps Pasukan Khas juga bermarkas di sini.
+								Bandara Abdulrahman Saleh memiliki dua landasan pacu yang pertama untuk pesawat-pesawat kecil seperti Hercules C-130 dengan panjang 1.500 m, dan yang kedua untuk jenis pesawat besar seperti Boeing 737 dengan panjang 2.300 m. Pemerintah provinsi Jawa Timur melalui Dishub dan LLAJ mengusulkan kepada Kementerian Perhubungan agar menambah panjang landasan pacu 700 meter lagi. “Dengan penambahan itu nantinya panjang landasan pacu di Bandara Abd. Saleh Malang menjadi 3.000 meter dan juga dobel landasan pacunya.” Dengan demikian, Bandara Abdulrachman Saleh sangat berpotensi menjadi Bandara Internasional, sehingga pihak Kepala Dinas Perhubungan dan LLAJ Pemprov Jatim mengusulkan Kemenhub agar menambah panjang landasan pacu.
+								Nama bandara ini diambil dari salah satu pahlawan nasional Indonesia: Abdulrahman Saleh, dan sebelum sepertiy Bandara Abdulrahman Saleh, bandara ini bernama Lapangan Terbang Bugis. <br><br>
+
+								Wali kota Malang, Mochamad Anton mengusulkan kepada Presiden Joko Widodo pada 24 Mei 2017, ketika Presiden berkunjung ke Kota Malang, agar Bandara Abdul Rachman Saleh dinaikkan statusnya menjadi bandara internasional.[6] Hal ini dikarenakan menurut sang wali kota, daerah Malang memiliki bayak objek wisata menarik, terutama yang menjadi tren, yaitu Gunung Bromo dan Gunung Semeru.[6] Hal ini disambut baik oleh Jokowi sehingga ia berjanji akan memerintahkan Kementerian Perhubungan (Kemhub) untuk berkomunikasi dengan TNI AU.[7]
+								Impian ini sukar dicapai. Hal ini dikarenakan bagi pihak TNI AU, Bandara Abdul Rachman Saleh sulit sekali menjadi bandara internasional.[8] Secara rinci ketidakmungkinan ini dikarenakan oleh dikelilinginya bandara oleh berbagai gunung berapi dan letak bandara yang terletak pada kompleks vital TNI AU.[8] Oleh karena itu, wacana pembangunan Bandar Udara Internasional Purboyo di Desa Srigonco, Kecamatan Bantur yang terletak di bagian selatan Malang.[9] Usulan ini telah disetujui oleh Kemhub,[10] namun pada akhirnya, bandara ini batal dibangun.
 							</p>
-							<a class="primary-btn" href="#">Get Started Now</a>
 						</div>
-						
 					</div>
 				</div>	
 			</section>

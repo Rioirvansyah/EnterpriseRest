@@ -9,7 +9,7 @@
 						Pengelolaan bandara itu akan dibawah tanggungjawab Pemerintah Provinsi Jawa Timur. Bandara Abdul Rachman Saleh ini dibangun di atas lahan seluas 1020 meter persegi yang mampu menampung sebanyak 250 orang, dengan setiap kali penerbangan penumpang berangkat sekitar 125 orang.
 					</p>
 					<p class="footer-text">
-						Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
+						Copyright &copy;<script>document.write(new Date().getFullYear());</script> Bandara Abdul Rachman Saleh
 					</p>								
 				</div>
 			</div>
