@@ -50,36 +50,30 @@
 										PENERBANGAN
 									</h1>
 								</a>
-								<table class="table table-bordered">
+								<table class="table table-striped">
                                     <thead>
-                                          <tr>
-                                            <th>Firstname</th>
-                                            <th>Lastname</th>
-                                            <th>Email</th>
-                                            <th>Firstname</th>
-                                            <th>Lastname</th>
-                                            <th>Email</th>
-                                            <th>Firstname</th>
-                                            <th>Lastname</th>
-                                            <th>Email</th>
+                                          <tr style="background-color: #3f50b5; color: #fff">
+                                            <th>Nomor Penerbangan</th>
+                                            <th>Nama Maskapai</th>
+                                            <th>Tanggal Berangkat</th>
+                                            <th>Tujuan</th>
+                                            <th>Waktu Berangkat</th>
+                                            <th>Waktu Sampai</th>
+                                            <th>Keterangan</th>
                                           </tr>
                                         </thead>
                                         <tbody>
-                                          <tr>
-                                            <td>John</td>
-                                            <td>Doe</td>
-                                            <td>john@example.com</td>
-                                          </tr>
-                                          <tr>
-                                            <td>Mary</td>
-                                            <td>Moe</td>
-                                            <td>mary@example.com</td>
-                                          </tr>
-                                          <tr>
-                                            <td>July</td>
-                                            <td>Dooley</td>
-                                            <td>july@example.com</td>
-                                          </tr>
+                                            <?php foreach ($penerbangan as $data) { ?>
+                                              <tr>
+                                                <td><?php echo $data->no_penerbangan ?></td>
+                                                <td><?php echo $data->nama_maskapai ?></td>
+                                                <td><?php echo $data->tanggal_berangkat ?></td>
+                                                <td><?php echo $data->tujuan ?></td>
+                                                <td><?php echo $data->waktu_berangkat ?></td>
+                                                <td><?php echo $data->waktu_sampai ?></td>
+                                                <td><?php echo $data->keterangan ?></td>
+                                              </tr>
+                                            <?php } ?>
                                         </tbody>
                                 </table>
 						</div>

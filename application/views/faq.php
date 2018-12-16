@@ -47,7 +47,7 @@
 							<ul class="tags">
 								<h2>MASKAPAI</h2>
 							</ul>
-							<a href="blog-single.html">
+							<a href="#">
 								<h3>
 									Dimana lokasi Terminal keberangkatan Sriwijaya Airlines?
 								</h3>
@@ -80,7 +80,7 @@
 							<ul class="tags">
 								<h2>INFORMASI PENERBANGAN</h2>
 							</ul>
-							<a href="blog-single.html">
+							<a href="#">
 								<h3>
 									Bagaimana cara melakukan pengecekkan update informasi penerbangan di Bandara Abdul Rachman Saleh?
 								</h3>
@@ -113,7 +113,7 @@
 							<ul class="tags">
 								<h2>PENANGANAN BARANG TERTINGGAL</h2>
 							</ul>
-							<a href="blog-single.html">
+							<a href="#">
 								<h3>
 									Mohon dibantu pengecekan apakah ditemukan jam tangan di toilet kedatangan Terminal 1 ?
 								</h3>
@@ -146,7 +146,7 @@
 							<ul class="tags">
 								<h2>FASILITAS BANDARA</h2>
 							</ul>
-							<a href="blog-single.html">
+							<a href="#">
 								<h3>
 									Apakah tersedia free drinking water di area boarding gate internasional Teminal 1?
 								</h3>
@@ -180,7 +180,7 @@
 							<ul class="tags">
 								<h2>PARKIR</h2>
 							</ul>
-							<a href="blog-single.html">
+							<a href="#">
 								<h3>
 									Proses pembayaran parkir apakah bisa dengan uang tunai?
 								</h3>

@@ -14,7 +14,7 @@
         <!-- meta character set -->
         <meta charset="UTF-8">
         <!-- Site Title -->
-        <title>Login - Bandara Abdul Rachman Saleh</title>
+        <title>Register - Bandara Abdul Rachman Saleh</title>
 
         <?php include 'sourcecss.php' ?>
         </head>
@@ -28,9 +28,9 @@
                     <div class="row d-flex align-items-center justify-content-center">
                         <div class="about-content col-lg-12">
                             <h1 class="text-white">
-                                Login              
+                                Register              
                             </h1>   
-                            <p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="blog-single.html">Login</a></p>
+                            <p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="blog-single.html">Register</a></p>
                         </div>                                          
                     </div>
                 </div>
@@ -46,28 +46,35 @@
 								<img class="img-fluid" src="img/blog/p1.jpg" alt="">
 								<a href="#">
 									<h1><center>
-										LOGIN
+										Daftar Diri Anda
 									</center></h1>
 								</a>
-
                                 <center>
                                     <div id="content-inner-login">
-                                    <?php echo form_open('login/proses_login'); ?>
-                            
-                                        <table width="100%">
+                                    <?php echo form_open('login/register');?>
+                                        <table cellpadding="0" cellspacing="5" width="50%">
                                         <tr>
-                                            <td style="vertical-align: top">
-                                            Username : <input type ="text" name="username" class="form-control" required=""><br></br>
-                                            Password : <input type="password" name="password" class="form-control" required="" /><br></br>
-                                            
-                                            <input type="submit" value="submit" name="submit" class="btn btn-primary form-control">
+                                            <td>
+                                                <table width="100%">
+                                                <tr>
+                                                    <td style="vertical-align: top">
+                                                    No KTP : <input type ="text" name="no_ktp" class="form-control" required=""><br></br>
+                                                    Nama : <input type="text" name="nama_penumpang" class="form-control"/><br></br>
+                                                    Telepon : <input type ="text" name="telepon_penumpang" class="form-control"><br></br>
+                                                    Email : <input type="text" name="email_penumpang" class="form-control"/><br></br>
+                                                    Jenis : <input type ="text" name="jenis_penumpang" class="form-control"><br></br>
+                                                    Username : <input type="text" name="username" class="form-control"/><br></br>
+                                                    Password : <input type="password" name="password" class="form-control"/><br></br>
+                                                    <input type="submit" value="submit" name="submit" class="btn btn-primary form-control">
+                                                    </td>
+                                                </tr>
+                                                </table>
                                             </td>
                                         </tr>
                                         </table>
-                                            
-                                      <?php echo form_close(); ?>
+                                   <?php echo form_close()?>
                                     </div>
-                                </center>                                                       
+                                </center>
 							</div>																		
 						</div>
 						<div class="col-lg-4 sidebar">

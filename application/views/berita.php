@@ -47,7 +47,7 @@
 							<ul class="tags">
 								<li><a>Senin 01 Oktober 2018, 08:25 WIB</a></li>
 							</ul>
-							<a href="blog-single.html">
+							<a href="#">
 								<h2>
 									Pesawat Hercules Lanud Abdulrachman Saleh Kembali Terbang ke Palu
 								</h2>
@@ -80,7 +80,7 @@
 							<ul class="tags">
 								<li><a>Rabu 25 April 2018, 19:23 WIB</a></li>
 							</ul>
-							<a href="blog-single.html">
+							<a href="#">
 								<h2>
 									Cerita Pencopotan Kaligrafi di Masjid karena Disebut Mirip Salib
 								</h2>
@@ -113,7 +113,7 @@
 							<ul class="tags">
 								<li><a>Jumat 17 November 2017, 17:43 WIB</a></li>
 							</ul>
-							<a href="blog-single.html">
+							<a href="#">
 								<h2>
 									Cuaca Buruk, 3 Pesawat Gagal Landing di Abdulrachman Saleh
 								</h2>
@@ -147,7 +147,7 @@
 							<ul class="tags">
 								<li><a>Kamis 06 Oktober 2016, 09:10 WIB</a></li>
 							</ul>
-							<a href="blog-single.html">
+							<a href="#">
 								<h2>
 									Abu Vulkanik Bromo, Garuda Alihkan Penerbangan ke Bandara Juanda
 								</h2>

@@ -14,7 +14,7 @@
         <!-- meta character set -->
         <meta charset="UTF-8">
         <!-- Site Title -->
-        <title>Login - Bandara Abdul Rachman Saleh</title>
+        <title>Login Admin - Bandara Abdul Rachman Saleh</title>
 
         <?php include 'sourcecss.php' ?>
         </head>
@@ -30,7 +30,7 @@
                             <h1 class="text-white">
                                 Login              
                             </h1>   
-                            <p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="blog-single.html">Login</a></p>
+                            <p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="blog-single.html">Login Admin</a></p>
                         </div>                                          
                     </div>
                 </div>
@@ -41,18 +41,18 @@
 			<section class="blog-posts-area section-gap">
 				<div class="container">
 					<div class="row">
-						<div class="col-lg-8 post-list blog-post-list">
+						<div class="col-lg-12 post-list blog-post-list">
 							<div class="single-post">
 								<img class="img-fluid" src="img/blog/p1.jpg" alt="">
 								<a href="#">
 									<h1><center>
-										LOGIN
+										LOGIN ADMIN
 									</center></h1>
 								</a>
 
                                 <center>
                                     <div id="content-inner-login">
-                                    <?php echo form_open('login/proses_login'); ?>
+                                    <?php echo form_open('home/login_admin'); ?>
                             
                                         <table width="100%">
                                         <tr>
@@ -69,15 +69,6 @@
                                     </div>
                                 </center>                                                       
 							</div>																		
-						</div>
-						<div class="col-lg-4 sidebar">
-							<div class="single-widget search-widget">
-								<form class="example" action="#" style="margin:auto;max-width:300px">
-								  <input type="text" placeholder="Search Posts" name="search2">
-								  <button type="submit"><i class="fa fa-search"></i></button>
-								</form>								
-							</div>	
-
 						</div>
 					</div>
 				</div>	

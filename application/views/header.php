@@ -4,13 +4,16 @@
 	  		<div class="row">
 	  			<div class="col-lg-6 col-sm-6 col-4 header-top-left no-padding">
 	  				<ul>
-						<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-						<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-						<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-						<li><a href="#"><i class="fa fa-behance"></i></a></li>
+						<li>
+							<?php if ($this->session->userdata('penumpang') == true){ ?>
+								<a href="">Halo <?php echo $username['username'] ?> </a>
+								<a href="<?php echo base_url() ?>home/logout">, Logout </a>
+							<?php } ?>
+						</li>
 	  				</ul>
 	  			</div>
 	  			<div class="col-lg-6 col-sm-6 col-8 header-top-right no-padding">
+	  				
 	  				<a href="tel:+880 012 3654 896">085 825 834 427</a>
 	  				<a href="mailto:abdulrachmansaleh@gmail.com">abdulrachmansaleh@gmail.com</a>				
 	  			</div>
@@ -47,10 +50,15 @@
 	          <li class="menu-has-children"><a href="">Informasi Tiket</a>
 	            <ul>
 	              <li><a href="<?php echo base_url()?>pemesanantiket">Pemesanan Tiket</a></li>
-	              <li><a href="<?php echo base_url()?>tiket">Tiket Anda</a></li>
+	              <!-- <li><a href="<?php echo base_url()?>tiket">Tiket Anda</a></li> -->
 	            </ul>
 	          </li>						          
-	          <li><a href="<?php echo base_url()?>login">Login</a></li>
+	          <li class="menu-has-children"><a href="">Login</a>
+	          	<ul>
+	              <li><a href="<?php echo base_url()?>login">Login</a></li>
+	              <li><a href="<?php echo base_url()?>register">Daftar</a></li>
+	            </ul>
+	          </li>
 	        </ul>
 	      </nav><!-- #nav-menu-container -->		    		
 		</div>

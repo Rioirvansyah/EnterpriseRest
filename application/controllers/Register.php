@@ -1,10 +1,10 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Faq extends CI_Controller {
-
+class Register extends CI_Controller {
+	
 	var $API = "";
-	var $login = "";
+    var $login = "";
 
 	public function __construct()
 	{
@@ -24,10 +24,9 @@ class Faq extends CI_Controller {
 	public function index()
 	{
 		$data['username'] = $this->login;
-		$this->load->view('faq', $data);
+		$this->load->view('register', $data);
 	}
-
 }
 
-/* End of file Faq.php */
-/* Location: ./application/controllers/Faq.php */
+/* End of file Register.php */
+/* Location: ./application/controllers/Register.php */

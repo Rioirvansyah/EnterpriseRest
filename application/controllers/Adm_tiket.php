@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 class Adm_tiket extends CI_Controller {
 	function __construct() {
         parent::__construct();
-        $this->API="http://localhost:81/EnterpriseRestServer/index.php";
+        $this->API="http://localhost:82/TiketEnterpriseServer/index.php";
 }
 
   public function index()

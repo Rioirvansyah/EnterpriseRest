@@ -50,24 +50,30 @@
 									</h1>
 								</a>
 								<div class="content-wrap">
-									 <form action="/action_page.php">
-    <div class="form-group">
-      <label for="email">Email:</label>
-      <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
-    </div>
-    <div class="form-group">
-      <label for="pwd">Password:</label>
-      <input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pswd">
-    </div>
-    <div class="form-group form-check">
-      <label class="form-check-label">
-        <input class="form-check-input" type="checkbox" name="remember"> Remember me
-      </label>
-    </div>
-    <button type="submit" class="btn btn-primary">Submit</button>
-  </form>				
-
-
+									 <?php echo form_open('pemesananTiket/pesan');?>
+                                        <div class="form-group">
+                                          <label for="email">No KTP</label>
+                                          <input type="text" class="form-control" id="no_ktp" placeholder="Masukkan no ktp" name="no_ktp">
+                                        </div>
+                                        <div class="form-group">
+                                          <label for="pwd">No Penerbangan</label>
+                                          <!-- <input type="text" class="form-control" id="no_penerbangan" placeholder="Masukkan no penerbangan" name="no_penerbangan"> -->
+                                          <select name="no_penerbangan" class="form-control">
+                                            <?php foreach ($penerbangan as $data) { ?>
+                                              <option value="<?php echo $data->no_penerbangan ?>"><?php echo $data->no_penerbangan ?></option>
+                                            <?php } ?>
+                                            </select>
+                                        </div>
+                                        <div class="form-group">
+                                          <label for="pwd">Jumlah</label>
+                                          <input type="text" class="form-control" id="jumlah" placeholder="Masukkan jumlah" name="jumlah">
+                                        </div>
+                                        <div class="form-group">
+                                          <label for="pwd">Harga Total</label>
+                                          <input type="text" class="form-control" id="harga_total" placeholder="Masukkan harga total" name="harga_total">
+                                        </div>
+                                        <input type="submit" name="submit" value="submit" class="btn btn-primary">
+                                      <?php echo form_close(); ?>			
 								</div>
 
                             

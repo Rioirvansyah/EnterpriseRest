@@ -50,33 +50,26 @@
                                        INFORMASI TIKET ANDA
                                     </h1>
                                 </a>
-                                <table class="table table-bordered">
+                                <table class="table table-striped">
                                     <thead>
-                                          <tr>
-                                            <th>Firstname</th>
-                                            <th>Lastname</th>
-                                            <th>Email</th>
-                                            <th>Firstname</th>
-                                            <th>Lastname</th>
-                                            <th>Email</th>
+                                          <tr style="background-color: #3f50b5; color: #fff">
+                                            <th>ID Tiket</th>
+                                            <th>Nama Penumpang</th>
+                                            <th>No Penerbangan</th>
+                                            <th>Jumlah</th>
+                                            <th>Harga Total</th>
                                           </tr>
                                         </thead>
                                         <tbody>
-                                          <tr>
-                                            <td>John</td>
-                                            <td>Doe</td>
-                                            <td>john@example.com</td>
-                                          </tr>
-                                          <tr>
-                                            <td>Mary</td>
-                                            <td>Moe</td>
-                                            <td>mary@example.com</td>
-                                          </tr>
-                                          <tr>
-                                            <td>July</td>
-                                            <td>Dooley</td>
-                                            <td>july@example.com</td>
-                                          </tr>
+                                            <?php foreach ($tiket as $data){ ?>                                            
+                                              <tr>
+                                                <td><?php echo $data->id_tiket ?></td>
+                                                <td><?php echo $data->nama_penumpang ?></td>
+                                                <td><?php echo $data->no_penerbangan ?></td>
+                                                <td><?php echo $data->jumlah ?></td>
+                                                <td><?php echo $data->harga_total ?></td>
+                                              </tr>
+                                            <?php } ?>
                                         </tbody>
                                 </table>
                         </div>

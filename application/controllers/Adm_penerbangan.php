@@ -2,7 +2,7 @@
 class Adm_penerbangan extends CI_Controller {
 	function __construct() {
         parent::__construct();
-        $this->API="http://localhost:81/EnterpriseRestServer/index.php";
+        $this->API="http://localhost:82/TiketEnterpriseServer/index.php";
     }
 
   public function index()
@@ -23,7 +23,9 @@ function create(){
             'waktu_berangkat'=> $this->input->post('waktu_berangkat'),
             'waktu_sampai'=> $this->input->post('waktu_sampai'),
             'keterangan' => $this->input->post('keterangan'));
+
         $insert = $this->curl->simple_post($this->API.'/penerbangan', $data, array(CURLOPT_BUFFERSIZE => 10));
+
         if($insert)
         {
             $this->session->set_flashdata('hasil','Insert Data Berhasil');
